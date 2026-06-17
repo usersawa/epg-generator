@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<channel id="الثانية">
+  <display-name>Channel 1</display-name>
+</channel>
+
+<channel id="channel2">
+  <display-name>Channel 2</display-name>
+</channel>
+
 <tv>
 <programme channel="الثانية" start="20260617180000 +0200" stop="20260617190000 +0200">
 <title>مسلسل تجربة</title>
