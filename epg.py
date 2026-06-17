@@ -10,26 +10,31 @@ programmes = []
 
 with open("schedule.txt", "r", encoding="utf-8") as f:
     for line in f:
-        channel_id, channel_name, rest = line.strip().split("|", 2)
-        start, end, title = rest.split(" ", 2)
+        line = line.strip()
+        if not line or "|" not in line:
+            continue
 
-        # حفظ القنوات مرة واحدة فقط
-        if channel_id not in channels:
+        try:
+            channel_id, rest, channel_name = line.split("|", 2)
+            start, end, title = rest.split(" ", 2)
+
             channels[channel_id] = channel_name
+            programmes.append((channel_id, start, end, title))
 
-        programmes.append((channel_id, start, end, title))
+        except:
+            continue
 
 with open("epg.xml", "w", encoding="utf-8") as out:
     out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     out.write("<tv>\n")
 
-    # 1️⃣ القنوات
+    # القنوات
     for cid, cname in channels.items():
         out.write(f'<channel id="{cid}">\n')
         out.write(f"<display-name>{cname}</display-name>\n")
         out.write("</channel>\n")
 
-    # 2️⃣ البرامج (7 أيام)
+    # البرامج لمدة 7 أيام
     for i in range(7):
         day = datetime.now() + timedelta(days=i)
 
