@@ -3,15 +3,6 @@
 <channel id="الثانية">
 <display-name>الثانية</display-name>
 </channel>
-<programme channel="الثانية" start="20260617190000 +0200" stop="20260617200000 +0200">
-<title>مسلسل تجربة</title>
-</programme>
-<programme channel="الثانية" start="20260617200000 +0200" stop="20260617210000 +0200">
-<title>نشرة الأخبار</title>
-</programme>
-<programme channel="الثانية" start="20260617210000 +0200" stop="20260617223000 +0200">
-<title>فيلم أكشن</title>
-</programme>
 <programme channel="الثانية" start="20260618190000 +0200" stop="20260618200000 +0200">
 <title>مسلسل تجربة</title>
 </programme>
@@ -64,6 +55,15 @@
 <title>نشرة الأخبار</title>
 </programme>
 <programme channel="الثانية" start="20260623210000 +0200" stop="20260623223000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260624190000 +0200" stop="20260624200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260624200000 +0200" stop="20260624210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260624210000 +0200" stop="20260624223000 +0200">
 <title>فيلم أكشن</title>
 </programme>
 </tv>
