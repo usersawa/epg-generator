@@ -8,6 +8,8 @@ def build_time(date, time):
 channels = {}
 programmes = []
 
+print("START SCRIPT")
+
 with open("schedule.txt", "r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
@@ -21,20 +23,21 @@ with open("schedule.txt", "r", encoding="utf-8") as f:
             channels[channel_id] = channel_name
             programmes.append((channel_id, start, end, title))
 
-        except:
-            continue
+        except Exception as e:
+            print("SKIP LINE:", line, e)
+
+print("CHANNELS:", len(channels))
+print("PROGRAMMES:", len(programmes))
 
 with open("epg.xml", "w", encoding="utf-8") as out:
     out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     out.write("<tv>\n")
 
-    # القنوات
     for cid, cname in channels.items():
         out.write(f'<channel id="{cid}">\n')
         out.write(f"<display-name>{cname}</display-name>\n")
         out.write("</channel>\n")
 
-    # البرامج لمدة 7 أيام
     for i in range(7):
         day = datetime.now() + timedelta(days=i)
 
@@ -47,3 +50,5 @@ with open("epg.xml", "w", encoding="utf-8") as out:
             out.write("</programme>\n")
 
     out.write("</tv>\n")
+
+print("DONE -> epg.xml created")
