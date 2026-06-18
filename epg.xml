@@ -3,8 +3,38 @@
 <channel id="الثانية">
 <display-name>الثانية</display-name>
 </channel>
-<programme channel="الثانية" start="20260618120000 +0200" stop="20260618140000 +0200">
-<title>برنامج وسط البلد</title>
+<channel id="Lana لـــنـــا">
+<display-name>Lana لـــنـــا</display-name>
+</channel>
+<channel id="السورية الجديدة">
+<display-name>السورية الجديدة</display-name>
+</channel>
+<programme channel="الثانية" start="20260618100000 +0200" stop="20260618110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260618110000 +0200" stop="20260618120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260618120000 +0200" stop="20260618130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260618130000 +0200" stop="20260618140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260618140000 +0200" stop="20260618150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260618150000 +0200" stop="20260618160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260618160000 +0200" stop="20260618170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260618170000 +0200" stop="20260618180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260618180000 +0200" stop="20260618190000 +0200">
+<title>فيلم أكشن</title>
 </programme>
 <programme channel="الثانية" start="20260618190000 +0200" stop="20260618200000 +0200">
 <title>مسلسل تجربة</title>
@@ -12,11 +42,107 @@
 <programme channel="الثانية" start="20260618200000 +0200" stop="20260618210000 +0200">
 <title>نشرة الأخبار</title>
 </programme>
-<programme channel="الثانية" start="20260618210000 +0200" stop="20260618223000 +0200">
+<programme channel="الثانية" start="20260618210000 +0200" stop="20260618220000 +0200">
 <title>فيلم أكشن</title>
 </programme>
-<programme channel="الثانية" start="20260619120000 +0200" stop="20260619140000 +0200">
-<title>برنامج وسط البلد</title>
+<programme channel="Lana لـــنـــا" start="20260618100000 +0200" stop="20260618110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618110000 +0200" stop="20260618120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618120000 +0200" stop="20260618130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618130000 +0200" stop="20260618140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618140000 +0200" stop="20260618150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618150000 +0200" stop="20260618160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618160000 +0200" stop="20260618170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618170000 +0200" stop="20260618180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618180000 +0200" stop="20260618190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618190000 +0200" stop="20260618200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618200000 +0200" stop="20260618210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260618210000 +0200" stop="20260618220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618100000 +0200" stop="20260618110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618110000 +0200" stop="20260618120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618120000 +0200" stop="20260618130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618130000 +0200" stop="20260618140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618140000 +0200" stop="20260618150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618150000 +0200" stop="20260618160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618160000 +0200" stop="20260618170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618170000 +0200" stop="20260618180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618180000 +0200" stop="20260618190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618190000 +0200" stop="20260618200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618200000 +0200" stop="20260618210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260618210000 +0200" stop="20260618220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260619100000 +0200" stop="20260619110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260619110000 +0200" stop="20260619120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260619120000 +0200" stop="20260619130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260619130000 +0200" stop="20260619140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260619140000 +0200" stop="20260619150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260619150000 +0200" stop="20260619160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260619160000 +0200" stop="20260619170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260619170000 +0200" stop="20260619180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260619180000 +0200" stop="20260619190000 +0200">
+<title>فيلم أكشن</title>
 </programme>
 <programme channel="الثانية" start="20260619190000 +0200" stop="20260619200000 +0200">
 <title>مسلسل تجربة</title>
@@ -24,11 +150,107 @@
 <programme channel="الثانية" start="20260619200000 +0200" stop="20260619210000 +0200">
 <title>نشرة الأخبار</title>
 </programme>
-<programme channel="الثانية" start="20260619210000 +0200" stop="20260619223000 +0200">
+<programme channel="الثانية" start="20260619210000 +0200" stop="20260619220000 +0200">
 <title>فيلم أكشن</title>
 </programme>
-<programme channel="الثانية" start="20260620120000 +0200" stop="20260620140000 +0200">
-<title>برنامج وسط البلد</title>
+<programme channel="Lana لـــنـــا" start="20260619100000 +0200" stop="20260619110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619110000 +0200" stop="20260619120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619120000 +0200" stop="20260619130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619130000 +0200" stop="20260619140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619140000 +0200" stop="20260619150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619150000 +0200" stop="20260619160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619160000 +0200" stop="20260619170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619170000 +0200" stop="20260619180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619180000 +0200" stop="20260619190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619190000 +0200" stop="20260619200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619200000 +0200" stop="20260619210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260619210000 +0200" stop="20260619220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619100000 +0200" stop="20260619110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619110000 +0200" stop="20260619120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619120000 +0200" stop="20260619130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619130000 +0200" stop="20260619140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619140000 +0200" stop="20260619150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619150000 +0200" stop="20260619160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619160000 +0200" stop="20260619170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619170000 +0200" stop="20260619180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619180000 +0200" stop="20260619190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619190000 +0200" stop="20260619200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619200000 +0200" stop="20260619210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260619210000 +0200" stop="20260619220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260620100000 +0200" stop="20260620110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260620110000 +0200" stop="20260620120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260620120000 +0200" stop="20260620130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260620130000 +0200" stop="20260620140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260620140000 +0200" stop="20260620150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260620150000 +0200" stop="20260620160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260620160000 +0200" stop="20260620170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260620170000 +0200" stop="20260620180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260620180000 +0200" stop="20260620190000 +0200">
+<title>فيلم أكشن</title>
 </programme>
 <programme channel="الثانية" start="20260620190000 +0200" stop="20260620200000 +0200">
 <title>مسلسل تجربة</title>
@@ -36,11 +258,107 @@
 <programme channel="الثانية" start="20260620200000 +0200" stop="20260620210000 +0200">
 <title>نشرة الأخبار</title>
 </programme>
-<programme channel="الثانية" start="20260620210000 +0200" stop="20260620223000 +0200">
+<programme channel="الثانية" start="20260620210000 +0200" stop="20260620220000 +0200">
 <title>فيلم أكشن</title>
 </programme>
-<programme channel="الثانية" start="20260621120000 +0200" stop="20260621140000 +0200">
-<title>برنامج وسط البلد</title>
+<programme channel="Lana لـــنـــا" start="20260620100000 +0200" stop="20260620110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620110000 +0200" stop="20260620120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620120000 +0200" stop="20260620130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620130000 +0200" stop="20260620140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620140000 +0200" stop="20260620150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620150000 +0200" stop="20260620160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620160000 +0200" stop="20260620170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620170000 +0200" stop="20260620180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620180000 +0200" stop="20260620190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620190000 +0200" stop="20260620200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620200000 +0200" stop="20260620210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260620210000 +0200" stop="20260620220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620100000 +0200" stop="20260620110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620110000 +0200" stop="20260620120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620120000 +0200" stop="20260620130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620130000 +0200" stop="20260620140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620140000 +0200" stop="20260620150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620150000 +0200" stop="20260620160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620160000 +0200" stop="20260620170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620170000 +0200" stop="20260620180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620180000 +0200" stop="20260620190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620190000 +0200" stop="20260620200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620200000 +0200" stop="20260620210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260620210000 +0200" stop="20260620220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260621100000 +0200" stop="20260621110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260621110000 +0200" stop="20260621120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260621120000 +0200" stop="20260621130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260621130000 +0200" stop="20260621140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260621140000 +0200" stop="20260621150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260621150000 +0200" stop="20260621160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260621160000 +0200" stop="20260621170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260621170000 +0200" stop="20260621180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260621180000 +0200" stop="20260621190000 +0200">
+<title>فيلم أكشن</title>
 </programme>
 <programme channel="الثانية" start="20260621190000 +0200" stop="20260621200000 +0200">
 <title>مسلسل تجربة</title>
@@ -48,11 +366,107 @@
 <programme channel="الثانية" start="20260621200000 +0200" stop="20260621210000 +0200">
 <title>نشرة الأخبار</title>
 </programme>
-<programme channel="الثانية" start="20260621210000 +0200" stop="20260621223000 +0200">
+<programme channel="الثانية" start="20260621210000 +0200" stop="20260621220000 +0200">
 <title>فيلم أكشن</title>
 </programme>
-<programme channel="الثانية" start="20260622120000 +0200" stop="20260622140000 +0200">
-<title>برنامج وسط البلد</title>
+<programme channel="Lana لـــنـــا" start="20260621100000 +0200" stop="20260621110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621110000 +0200" stop="20260621120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621120000 +0200" stop="20260621130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621130000 +0200" stop="20260621140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621140000 +0200" stop="20260621150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621150000 +0200" stop="20260621160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621160000 +0200" stop="20260621170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621170000 +0200" stop="20260621180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621180000 +0200" stop="20260621190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621190000 +0200" stop="20260621200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621200000 +0200" stop="20260621210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260621210000 +0200" stop="20260621220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621100000 +0200" stop="20260621110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621110000 +0200" stop="20260621120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621120000 +0200" stop="20260621130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621130000 +0200" stop="20260621140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621140000 +0200" stop="20260621150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621150000 +0200" stop="20260621160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621160000 +0200" stop="20260621170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621170000 +0200" stop="20260621180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621180000 +0200" stop="20260621190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621190000 +0200" stop="20260621200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621200000 +0200" stop="20260621210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260621210000 +0200" stop="20260621220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260622100000 +0200" stop="20260622110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260622110000 +0200" stop="20260622120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260622120000 +0200" stop="20260622130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260622130000 +0200" stop="20260622140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260622140000 +0200" stop="20260622150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260622150000 +0200" stop="20260622160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260622160000 +0200" stop="20260622170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260622170000 +0200" stop="20260622180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260622180000 +0200" stop="20260622190000 +0200">
+<title>فيلم أكشن</title>
 </programme>
 <programme channel="الثانية" start="20260622190000 +0200" stop="20260622200000 +0200">
 <title>مسلسل تجربة</title>
@@ -60,11 +474,107 @@
 <programme channel="الثانية" start="20260622200000 +0200" stop="20260622210000 +0200">
 <title>نشرة الأخبار</title>
 </programme>
-<programme channel="الثانية" start="20260622210000 +0200" stop="20260622223000 +0200">
+<programme channel="الثانية" start="20260622210000 +0200" stop="20260622220000 +0200">
 <title>فيلم أكشن</title>
 </programme>
-<programme channel="الثانية" start="20260623120000 +0200" stop="20260623140000 +0200">
-<title>برنامج وسط البلد</title>
+<programme channel="Lana لـــنـــا" start="20260622100000 +0200" stop="20260622110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622110000 +0200" stop="20260622120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622120000 +0200" stop="20260622130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622130000 +0200" stop="20260622140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622140000 +0200" stop="20260622150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622150000 +0200" stop="20260622160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622160000 +0200" stop="20260622170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622170000 +0200" stop="20260622180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622180000 +0200" stop="20260622190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622190000 +0200" stop="20260622200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622200000 +0200" stop="20260622210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260622210000 +0200" stop="20260622220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622100000 +0200" stop="20260622110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622110000 +0200" stop="20260622120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622120000 +0200" stop="20260622130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622130000 +0200" stop="20260622140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622140000 +0200" stop="20260622150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622150000 +0200" stop="20260622160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622160000 +0200" stop="20260622170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622170000 +0200" stop="20260622180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622180000 +0200" stop="20260622190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622190000 +0200" stop="20260622200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622200000 +0200" stop="20260622210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260622210000 +0200" stop="20260622220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260623100000 +0200" stop="20260623110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260623110000 +0200" stop="20260623120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260623120000 +0200" stop="20260623130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260623130000 +0200" stop="20260623140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260623140000 +0200" stop="20260623150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260623150000 +0200" stop="20260623160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260623160000 +0200" stop="20260623170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260623170000 +0200" stop="20260623180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260623180000 +0200" stop="20260623190000 +0200">
+<title>فيلم أكشن</title>
 </programme>
 <programme channel="الثانية" start="20260623190000 +0200" stop="20260623200000 +0200">
 <title>مسلسل تجربة</title>
@@ -72,11 +582,107 @@
 <programme channel="الثانية" start="20260623200000 +0200" stop="20260623210000 +0200">
 <title>نشرة الأخبار</title>
 </programme>
-<programme channel="الثانية" start="20260623210000 +0200" stop="20260623223000 +0200">
+<programme channel="الثانية" start="20260623210000 +0200" stop="20260623220000 +0200">
 <title>فيلم أكشن</title>
 </programme>
-<programme channel="الثانية" start="20260624120000 +0200" stop="20260624140000 +0200">
-<title>برنامج وسط البلد</title>
+<programme channel="Lana لـــنـــا" start="20260623100000 +0200" stop="20260623110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623110000 +0200" stop="20260623120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623120000 +0200" stop="20260623130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623130000 +0200" stop="20260623140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623140000 +0200" stop="20260623150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623150000 +0200" stop="20260623160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623160000 +0200" stop="20260623170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623170000 +0200" stop="20260623180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623180000 +0200" stop="20260623190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623190000 +0200" stop="20260623200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623200000 +0200" stop="20260623210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260623210000 +0200" stop="20260623220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623100000 +0200" stop="20260623110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623110000 +0200" stop="20260623120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623120000 +0200" stop="20260623130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623130000 +0200" stop="20260623140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623140000 +0200" stop="20260623150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623150000 +0200" stop="20260623160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623160000 +0200" stop="20260623170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623170000 +0200" stop="20260623180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623180000 +0200" stop="20260623190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623190000 +0200" stop="20260623200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623200000 +0200" stop="20260623210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260623210000 +0200" stop="20260623220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260624100000 +0200" stop="20260624110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260624110000 +0200" stop="20260624120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260624120000 +0200" stop="20260624130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260624130000 +0200" stop="20260624140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260624140000 +0200" stop="20260624150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260624150000 +0200" stop="20260624160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="الثانية" start="20260624160000 +0200" stop="20260624170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="الثانية" start="20260624170000 +0200" stop="20260624180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="الثانية" start="20260624180000 +0200" stop="20260624190000 +0200">
+<title>فيلم أكشن</title>
 </programme>
 <programme channel="الثانية" start="20260624190000 +0200" stop="20260624200000 +0200">
 <title>مسلسل تجربة</title>
@@ -84,7 +690,79 @@
 <programme channel="الثانية" start="20260624200000 +0200" stop="20260624210000 +0200">
 <title>نشرة الأخبار</title>
 </programme>
-<programme channel="الثانية" start="20260624210000 +0200" stop="20260624223000 +0200">
+<programme channel="الثانية" start="20260624210000 +0200" stop="20260624220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624100000 +0200" stop="20260624110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624110000 +0200" stop="20260624120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624120000 +0200" stop="20260624130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624130000 +0200" stop="20260624140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624140000 +0200" stop="20260624150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624150000 +0200" stop="20260624160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624160000 +0200" stop="20260624170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624170000 +0200" stop="20260624180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624180000 +0200" stop="20260624190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624190000 +0200" stop="20260624200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624200000 +0200" stop="20260624210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="Lana لـــنـــا" start="20260624210000 +0200" stop="20260624220000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624100000 +0200" stop="20260624110000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624110000 +0200" stop="20260624120000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624120000 +0200" stop="20260624130000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624130000 +0200" stop="20260624140000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624140000 +0200" stop="20260624150000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624150000 +0200" stop="20260624160000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624160000 +0200" stop="20260624170000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624170000 +0200" stop="20260624180000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624180000 +0200" stop="20260624190000 +0200">
+<title>فيلم أكشن</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624190000 +0200" stop="20260624200000 +0200">
+<title>مسلسل تجربة</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624200000 +0200" stop="20260624210000 +0200">
+<title>نشرة الأخبار</title>
+</programme>
+<programme channel="السورية الجديدة" start="20260624210000 +0200" stop="20260624220000 +0200">
 <title>فيلم أكشن</title>
 </programme>
 </tv>
